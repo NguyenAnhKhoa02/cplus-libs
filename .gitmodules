@@ -4,3 +4,6 @@
 [submodule "qt/qcoro"]
 	path = qt/qcoro
 	url = https://github.com/qcoro/qcoro.git
+[submodule "qt/qdataengine"]
+	path = qt/qdataengine
+	url = https://github.com/NguyenAnhKhoa02/qdataengine.git
