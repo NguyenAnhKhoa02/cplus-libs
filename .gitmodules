@@ -1,3 +1,6 @@
 [submodule "whisper.cpp"]
 	path = whisper.cpp
 	url = https://github.com/ggml-org/whisper.cpp.git
+[submodule "qt/qcoro"]
+	path = qt/qcoro
+	url = https://github.com/qcoro/qcoro.git
