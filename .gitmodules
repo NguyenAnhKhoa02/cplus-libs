@@ -5,3 +5,6 @@
 	path = qt/qcoro
 	url = https://github.com/qcoro/qcoro.git
 
+[submodule "qt/qcustomlibs"]
+	path = qt/qcustomlibs
+	url = https://github.com/NguyenAnhKhoa02/qcustomlibs.git
